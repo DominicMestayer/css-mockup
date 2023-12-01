@@ -1,0 +1,88 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0px;
+}
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 55px;
+}
+#contact-div {
+  display: flex;
+}
+#about-img {
+  display: flex;
+  justify-content: center;
+  height: 400px;
+}
+.banner-img {
+  display: flex;
+  justify-content: center;
+  height: 350px;
+}
+nav {
+  text-align: center;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  color: blue;
+}
+#index-h2 {
+  color: white;
+  font-size: 18px;
+  top: 70px;
+  width: fit-content;
+  margin: auto;
+  position: relative;
+}
+.div-class h2 {
+  color: red;
+}
+.div-class {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#table-div {
+  display: flex;
+  justify-content: center;
+}
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: #7c7979;
+  color: black;
+  border: 3px;
+  border-style: solid;
+  text-align: center;
+  
+  
+}
+
+tr {
+  color: green;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+}
+td {
+  color: green;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  height: 30px;
+  width: 300px;
+}
+tfoot {
+  color: green;
+  text-align: center;
+  border: 1px;
+  border-style: solid;
+  background-color: #7c7979;
+}
